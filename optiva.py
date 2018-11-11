@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 #
-# Author  : Joker-Security
+# Author  : viluhaxor-HackSec
 # Optiva-framework - Web application scanner
-# Twitter: https://twitter.com/SecurityJoker
-# Channel ; https://www.youtube.com/c/Professionalhacker25
-# FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
+# Twitter: https://twitter.com/thevishalboss
+# Channel ; https://www.youtube.com/
+# FACE Pg : https://facebook.com/ethicalhackingofficial
 
 
 #modules
@@ -57,11 +57,11 @@ class OptivaMain(object):
 	   
 	   def joker(self):
 		__version__ = '1.0.4'
-		__author__ = "Joker-Security"
-		__Github__ = "https://github.com/joker25000"
-		__Twitter__ = "https://twitter.com/SecurityJoker"
-		__Channel__ = "https://www.youtube.com/c/Professionalhacker25"
-		__Facebook__ = "https://facebook.com/kali.linux.pentesting.tutorials"
+		__author__ = "viluhaxor"
+		__Github__ = "https://github.com/viluhaxor"
+		__Twitter__ = "https://twitter.com/thevishalboss"
+		__Channel__ = "https://www.youtube.com/"
+		__Facebook__ = "https://facebook.com/realvilu"
 		__date__ = datetime.datetime.now()
 		__tools__ = "15"
 
@@ -69,7 +69,7 @@ class OptivaMain(object):
 		    github = raw_input("\n\033[92m[\033[91m0ptiva\033[92m]\033[93m$>")
 
 		    if github == 'exit':
-		    	print '\033[1;91mThanks for Usage \033[96mOptivaframework !'
+		    	print '\033[1;91mThanks for Usage \033[96mviluframework !'
 		    	sys.exit(0)
 
 		    if github == 'clear':
